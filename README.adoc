@@ -1,3 +1,3 @@
 = rechner app with Javascript
 this is a app make with javascript ....
-image:/page.png?raw=true[rechner]
+image:page.png?raw=true[rechner]
